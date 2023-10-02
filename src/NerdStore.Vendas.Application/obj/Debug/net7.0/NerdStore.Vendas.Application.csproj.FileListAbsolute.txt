@@ -1,0 +1,34 @@
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Application.deps.json
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Application.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Application.pdb
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Core.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Domain.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Core.pdb
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Domain.pdb
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.csproj.AssemblyReference.cache
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.AssemblyInfo.cs
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.csproj.CopyComplete
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\refint\NerdStore.Vendas.Application.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.pdb
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Vendas.Application\obj\Debug\net7.0\ref\NerdStore.Vendas.Application.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Application.deps.json
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Application.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Application.pdb
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Core.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Core.pdb
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\bin\Debug\net7.0\NerdStore.Vendas.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\obj\Debug\net7.0\refint\NerdStore.Vendas.Application.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\obj\Debug\net7.0\NerdStore.Vendas.Application.pdb
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Vendas.Application\obj\Debug\net7.0\ref\NerdStore.Vendas.Application.dll

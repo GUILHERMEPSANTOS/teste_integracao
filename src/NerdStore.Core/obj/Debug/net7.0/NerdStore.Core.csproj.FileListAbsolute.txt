@@ -1,0 +1,24 @@
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\bin\Debug\net7.0\NerdStore.Core.deps.json
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\bin\Debug\net7.0\NerdStore.Core.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\bin\Debug\net7.0\NerdStore.Core.pdb
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.csproj.AssemblyReference.cache
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.AssemblyInfoInputs.cache
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.AssemblyInfo.cs
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.csproj.CoreCompileInputs.cache
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\obj\Debug\net7.0\refint\NerdStore.Core.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.pdb
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\02 - TDD\src\NerdStore.Core\obj\Debug\net7.0\ref\NerdStore.Core.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\obj\Debug\net7.0\refint\NerdStore.Core.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\obj\Debug\net7.0\NerdStore.Core.pdb
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\bin\Debug\net7.0\NerdStore.Core.deps.json
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\bin\Debug\net7.0\NerdStore.Core.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\bin\Debug\net7.0\NerdStore.Core.pdb
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Core\obj\Debug\net7.0\ref\NerdStore.Core.dll

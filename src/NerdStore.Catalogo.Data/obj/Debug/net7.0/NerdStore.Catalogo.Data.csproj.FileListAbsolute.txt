@@ -1,0 +1,38 @@
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Data.deps.json
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Data.runtimeconfig.json
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Data.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Data.pdb
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Domain.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Core.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Domain.pdb
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Core.pdb
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.csproj.AssemblyReference.cache
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.AssemblyInfoInputs.cache
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.AssemblyInfo.cs
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.csproj.CoreCompileInputs.cache
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.csproj.CopyComplete
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\refint\NerdStore.Catalogo.Data.dll
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.pdb
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.genruntimeconfig.cache
+c:\Users\guilh\Downloads\2EFF04B6-8667-4EB3-8E47-C186ABF54C3D-06 - Projeto Completo .NET 7\03 - Testes de Integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\ref\NerdStore.Catalogo.Data.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Data.deps.json
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Data.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Data.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Data.pdb
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Core.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Catalogo.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\bin\Debug\net7.0\NerdStore.Core.pdb
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\refint\NerdStore.Catalogo.Data.dll
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.pdb
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\NerdStore.Catalogo.Data.genruntimeconfig.cache
+C:\Users\guilh\OneDrive\Documentos\linguagens de programação\.NET\teste_integracao\src\NerdStore.Catalogo.Data\obj\Debug\net7.0\ref\NerdStore.Catalogo.Data.dll
