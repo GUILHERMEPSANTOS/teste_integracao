@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\NerdStore.WebApp.MVC.props" />
-</Project>
